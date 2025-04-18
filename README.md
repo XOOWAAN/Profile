@@ -3,8 +3,7 @@
 ### About Me
 
 #### 🎓 1. **Solo Game Developer**  
-I first started developing the game on my own in 2023.  
-I’m currently planning a brand new game project!  
+But the team project is also welcome!  
 
 #### 🛩️ 2. **Dev in the Air Force**  
 I want to be discharged from the militaryyyy....
