@@ -11,8 +11,7 @@ I want to be discharged from the militaryyyy....
 
 
 ### released game
-1. Judge Of Hasoon(2024)
-![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Steam_logo.png)
+1. Judge Of Hasoon(2024) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 
 ### 💻 Programming Languages I Use
@@ -22,5 +21,5 @@ I want to be discharged from the militaryyyy....
 
 ### 🔧 Tools I Use
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
