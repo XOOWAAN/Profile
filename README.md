@@ -32,4 +32,4 @@ I want to be discharged from the militaryyyy....
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOOWAAN)](https://github.com/anuraghazra/github-readme-stats)
