@@ -1,4 +1,4 @@
-## Hi there 👋
+# Potato Coder
 
 ### 🙋 About Me
 
