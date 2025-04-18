@@ -3,12 +3,12 @@
 ### About Me
 
 
-##### 🎓 1. Solo Game Developer  
+#### 🎓 1. Solo Game Developer  
 I first started developing the game on my own in 2023.
 I’m currently planning a brand new game project! I’m currently planning a new game.
 
 
-##### 🛩️ 2. Dev in the Air Force  
+#### 🛩️ 2. Dev in the Air Force  
 I want to be discharged from the militaryyyy....
 
 
