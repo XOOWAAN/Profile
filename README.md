@@ -2,7 +2,7 @@
 
 ### About Me
 
-#### 🎓 1. **Indie Game Developer**  
+#### 🎓:full_moon_with_face: 1. **Indie Game Developer**  
 Welcome Team Project!
 Prefer PM and design. Some programming and art, music savvy.
 
