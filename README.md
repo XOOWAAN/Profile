@@ -27,7 +27,7 @@ I want to be discharged from the militaryyyy....
 ### Tools I Use
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOWAAN&layout=Demo&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOWAAN&layout=compact&theme=tokyonight)
 
 ---
 
