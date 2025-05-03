@@ -2,8 +2,9 @@
 
 ### About Me
 
-#### 🎓 1. **Solo Game Developer**  
-But the team project is also welcome!  
+#### 🎓 1. **Indie Game Developer**  
+Welcome Team Project!
+Prefer PM and design. Some programming and art, music savvy.
 
 #### 🛩️ 2. **Dev in the Air Force**  
 I want to be discharged from the militaryyyy....
@@ -12,7 +13,7 @@ I want to be discharged from the militaryyyy....
 
 ### Released Game
 
-**Judge Of Hasoon** (2025)
+**Judge Of Hasoon** [2025], (Solo Develoment)
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
