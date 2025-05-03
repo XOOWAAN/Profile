@@ -13,9 +13,7 @@ I want to be discharged from the militaryyyy....
 
 ### Released Game
 
-**Judge Of Hasoon** [2025], (Solo Develoment)
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+**Judge Of Hasoon** ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)[2025], (Solo Develoment)
 
 ---
 
