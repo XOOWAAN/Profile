@@ -25,6 +25,8 @@ I want to be discharged from the militaryyyy....
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOWAAN)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Tools I Use
