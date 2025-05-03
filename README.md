@@ -33,4 +33,4 @@ I want to be discharged from the militaryyyy....
 
 ### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=①XOOWAAN&show_icons=true&theme=②midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOOWAAN&show_icons=true&theme=midnight-purple)
