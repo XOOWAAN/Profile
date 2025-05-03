@@ -14,7 +14,7 @@ I want to be discharged from the militaryyyy....
 ### Released Game
 
 **Judge Of Hasoon** [2025], (Solo Develoment)
-##### Platform : ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
@@ -27,9 +27,10 @@ I want to be discharged from the militaryyyy....
 ### Tools I Use
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOWAAN&layout=Demo&theme=radical)
 
 ---
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOOWAAN)](https://github.com/anuraghazra/github-readme-stats)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/apiXOOWAAN=K-Junyyy&show_icons=true&theme=radical) 
