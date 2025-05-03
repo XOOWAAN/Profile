@@ -2,7 +2,7 @@
 
 ### About Me
 
-#### 🎓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> 1. **Indie Game Developer**  
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="22" height="22" /> 1. **Indie Game Developer**  
 Welcome Team Project!
 Prefer PM and design. Some programming and art, music savvy.
 
